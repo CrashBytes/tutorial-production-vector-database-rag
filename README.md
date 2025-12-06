@@ -479,4 +479,4 @@ Built by the CrashBytes Technical Team as part of our production AI infrastructu
 
 ---
 
-**Production-Ready RAG Infrastructure** | Built with 💜 by [CrashBytes](https://crashbytes.com)
+**Production-Ready RAG Infrastructure** | Built by [CrashBytes](https://crashbytes.com)
