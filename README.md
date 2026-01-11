@@ -1,5 +1,8 @@
 # Production Vector Database RAG Tutorial
 
+[![Tests](https://github.com/CrashBytes/tutorial-production-vector-database-rag/workflows/Tests/badge.svg)](https://github.com/CrashBytes/tutorial-production-vector-database-rag/actions)
+[![codecov](https://codecov.io/gh/CrashBytes/tutorial-production-vector-database-rag/branch/main/graph/badge.svg)](https://codecov.io/gh/CrashBytes/tutorial-production-vector-database-rag)
+
 Complete production-ready implementation of vector databases for RAG (Retrieval-Augmented Generation) applications with both managed (Pinecone) and self-hosted (Weaviate) options.
 
 **Associated Article**: [Building Production Vector Databases for RAG Applications](https://crashbytes.com/articles/tutorial-production-vector-database-rag-applications-pinecone-weaviate-deployment-2025/)
