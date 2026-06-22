@@ -6,7 +6,7 @@ pydantic-settings==2.14.1
 
 # Vector databases
 pinecone-client==6.0.0
-weaviate-client==4.21.3
+weaviate-client==4.22.0
 
 # Embeddings
 openai==2.41.1
