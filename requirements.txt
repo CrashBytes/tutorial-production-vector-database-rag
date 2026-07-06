@@ -15,7 +15,7 @@ transformers==5.12.1
 
 # Data processing
 pandas==3.0.3
-numpy==2.5.0
+numpy==2.5.1
 
 # PostgreSQL for metadata
 asyncpg==0.31.0
