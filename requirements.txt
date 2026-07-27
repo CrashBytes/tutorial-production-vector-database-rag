@@ -14,7 +14,7 @@ sentence-transformers==5.6.0
 transformers==5.13.1
 
 # Data processing
-pandas==3.0.3
+pandas==3.0.5
 numpy==2.5.1
 
 # PostgreSQL for metadata
