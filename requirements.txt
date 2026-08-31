@@ -9,7 +9,7 @@ pinecone-client==6.0.0
 weaviate-client==4.23.0
 
 # Embeddings
-openai==3.1.0
+openai==3.5.0
 sentence-transformers==5.7.0
 transformers==5.15.0
 
