@@ -1,7 +1,7 @@
 # Core API framework
 fastapi==0.141.1
-uvicorn[standard]==0.52.3
-pydantic==2.13.4
+uvicorn[standard]==0.52.4
+pydantic==2.13.5
 pydantic-settings==2.15.0
 
 # Vector databases
@@ -9,9 +9,9 @@ pinecone-client==6.0.0
 weaviate-client==4.23.0
 
 # Embeddings
-openai==3.1.0
-sentence-transformers==5.7.0
-transformers==5.15.0
+openai==3.6.0
+sentence-transformers==6.0.1
+transformers==5.16.1
 
 # Data processing
 pandas==3.0.5
