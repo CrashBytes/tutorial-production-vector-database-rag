@@ -1,25 +1,25 @@
 # Core API framework
-fastapi==0.142.2
+fastapi==0.143.2
 uvicorn[standard]==0.54.0
-pydantic==2.13.5
-pydantic-settings==2.15.0
+pydantic==2.14.1
+pydantic-settings==2.16.0
 
 # Vector databases
 pinecone-client==6.0.0
 weaviate-client==4.23.1
 
 # Embeddings
-openai==3.22.1
+openai==3.31.0
 sentence-transformers==6.1.0
-transformers==5.18.0
+transformers==5.19.0
 
 # Data processing
 pandas==3.0.6
-numpy==2.5.3
+numpy==2.5.4
 
 # PostgreSQL for metadata
-asyncpg==0.31.0
-sqlalchemy==2.1.1
+asyncpg==0.32.0
+sqlalchemy==2.1.4
 
 # Monitoring & logging
 prometheus-client==0.26.0
@@ -36,6 +36,6 @@ pytest-asyncio==1.4.0
 pytest-cov==7.1.0
 
 # Linting & formatting
-black==26.5.1
+black==26.10.1
 flake8==7.4.1
-mypy==2.3.1
+mypy==2.4.0
